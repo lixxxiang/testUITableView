@@ -432,7 +432,7 @@
 				DEVELOPMENT_TEAM = EG38A8CGS3;
 				INFOPLIST_FILE = testTableView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.lixiang.yyfwptz.cgwx.testTableView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cgwx.lixiang.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -444,7 +444,7 @@
 				DEVELOPMENT_TEAM = EG38A8CGS3;
 				INFOPLIST_FILE = testTableView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.lixiang.yyfwptz.cgwx.testTableView;
+				PRODUCT_BUNDLE_IDENTIFIER = com.cgwx.lixiang.test;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
